@@ -1,0 +1,23 @@
+{
+  "name": "day10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^23.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttinakarn/PM-Day10.git"
+  },
+  "author": "Tinakarn Janthong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttinakarn/PM-Day10/issues"
+  },
+  "homepage": "https://github.com/ttinakarn/PM-Day10#readme"
+}
